@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 
 ```mermaid
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
+A(( )) --> B(( ))
 ```
