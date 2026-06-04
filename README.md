@@ -6,12 +6,12 @@
 
 ```mermaid
 journey
-    title My working day
+    title My Working Day
     section Go to work
       Make tea: 5: Me
       Go upstairs: 3: Me
-      Do work: 3: Me, CAT
-    section Go home
+      Do work: 5: Me
+    section Go Home
       Go downstairs: 5: Me
       Sit down: 5: Me
 ```
